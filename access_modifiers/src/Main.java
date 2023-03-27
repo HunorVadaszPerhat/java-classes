@@ -1,5 +1,9 @@
 import package_1.Demo1;
-
+/*
+* Sources:
+* https://dxc.udemy.com/course/java-se-programming/learn/lecture/18027383#overview
+* https://dxc.udemy.com/course/java-se-programming/learn/lecture/18585551#overview
+* */
 public class Main {
     public static void main(String[] args) {
         Demo1 demo1 = new Demo1();
