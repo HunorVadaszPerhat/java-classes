@@ -1,3 +1,8 @@
+/*
+* Sources:
+* https://www.youtube.com/watch?v=joG41UmxzPk
+* */
+
 public class Main {
     public static void main(String[] args) {
         // Zombie zombie = new Zombie(); -> Expected 8 arguments but found 0
