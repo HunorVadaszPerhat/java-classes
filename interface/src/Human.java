@@ -100,4 +100,39 @@ public interface Human {
     // -> Modifier 'abstract' is redundant for interface methods
     // -> Modifier 'protected' not allowed here
     // abstract protected void protectedDisplayAbstract();
+
+    // Default methods: allow us to add new methods to an interface that are automatically available in the implementations
+    // Source: https://www.baeldung.com/java-static-default-methods
+    // DEFAULT METHODS
+    default void displayDefault(){
+        System.out.println("default void displayDefault()");
+    };
+
+    // -> Modifier 'public' is redundant for interface members
+    public default void displayPublicDefault(){
+        System.out.println("public default void displayPublicDefault()");
+    };
+
+    // -> Illegal combination of modifiers: 'default' and 'private'
+    // private default void displayPrivateDefault(){};
+
+    // -> Modifier 'protected' not allowed here
+    // protected default void displayProtectedDefault(){};
+
+
+    // STATIC METHODS
+    static void displayStatic(){
+        System.out.println("default void displayDefault()");
+    };
+
+    // -> Modifier 'public' is redundant for interface members
+    public static void displayPublicStatic(){
+        System.out.println("public default void displayPublicDefault()");
+    };
+
+    // OK - BUT WHAT TO USE IT FOR?!
+    private static void displayPrivateStatic(){};
+
+    // -> Modifier 'protected' not allowed here
+    // protected static void displayProtectedStatic(){};
 }
