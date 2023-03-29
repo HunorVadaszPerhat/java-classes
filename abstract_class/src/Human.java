@@ -51,7 +51,6 @@ abstract class Human {
     private int b;
     public int c;
     protected int d;
-
     final int e = 10;
     private final int f = 20;
     public final int g = 30;
@@ -74,6 +73,7 @@ abstract class Human {
             int a, int b, int c, int d,
             // STATIC
             int i, int j, int k, int l
+
             // FINAL -> Cannot assign a value to final variable
             // STATIC + FINAL -> Cannot assign a value to final variable
     ) {

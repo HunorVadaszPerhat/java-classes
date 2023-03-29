@@ -15,7 +15,7 @@ public class Main {
         // demo1.b -> public member can be accessed outside of package as non-subclass
         // demo1.c -> protected member cannot be accessed outside of package as non-subclass
         // demo1.d -> private member cannot be accessed outside of package as non-subclass
-        System.out.println(demo1.a + demo1.b + demo1.c + demo1.d);
+        //System.out.println(demo1.a + demo1.b + demo1.c + demo1.d);
 
     }
 }

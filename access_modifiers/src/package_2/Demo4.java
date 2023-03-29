@@ -10,7 +10,7 @@ public class Demo4 extends Demo1 {
     // b -> public member can be accessed inside of same package as sub-class
     // c -> protected member can be accessed inside of same package as sub-class
     // d -> private member cannot be accessed inside of same package as sub-class
-    public void display() {
+    /*public void display() {
         System.out.println(a + b + c + d);
-    }
+    }*/
 }

@@ -1,5 +1,13 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        Zombie zombie = new Zombie();
+
+        // FIELDS
+        System.out.println(Zombie.a);
+
+        // METHODS
+        zombie.display();
+        zombie.displayDefault();
+        Human.displayStatic();
     }
 }

@@ -9,7 +9,7 @@ public class Demo2 {
     // demo1.b -> public member can be accessed inside of same package as non-subclass
     // demo1.c -> protected member can be accessed inside of same package as non-subclass
     // demo1.d -> private member cannot be accessed inside of same package as non-subclass
-    public void display() {
+    /*public void display() {
         System.out.println(demo1.a + demo1.b + demo1.c + demo1.d);
-    };
+    };*/
 }
