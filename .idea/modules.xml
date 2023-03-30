@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/inner_class/inner_class.iml" filepath="$PROJECT_DIR$/inner_class/inner_class.iml" />
       <module fileurl="file://$PROJECT_DIR$/interface/interface.iml" filepath="$PROJECT_DIR$/interface/interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-studies.iml" filepath="$PROJECT_DIR$/.idea/java-studies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inner_class/local_inner_class/local_inner_class.iml" filepath="$PROJECT_DIR$/inner_class/local_inner_class/local_inner_class.iml" />
       <module fileurl="file://$PROJECT_DIR$/inner_class/nested_inner_class/nested_inner_class.iml" filepath="$PROJECT_DIR$/inner_class/nested_inner_class/nested_inner_class.iml" />
       <module fileurl="file://$PROJECT_DIR$/statements/switch/switch.iml" filepath="$PROJECT_DIR$/statements/switch/switch.iml" />
     </modules>
