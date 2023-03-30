@@ -7,4 +7,5 @@
 * Interface | [link](https://github.com/HunorVadaszPerhat/java-studies/tree/main/interface)
 * Inner class:
   * Nested Inner class | [link](https://github.com/HunorVadaszPerhat/java-studies/tree/main/inner_class/nested_inner_class)
+  * Local Inner class | [link](https://github.com/HunorVadaszPerhat/java-studies/tree/main/inner_class/local_inner_class)
 
