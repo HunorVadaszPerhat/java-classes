@@ -10,4 +10,7 @@
   * Local Inner class | [link](https://github.com/HunorVadaszPerhat/java-studies/tree/main/inner_class/local_inner_class)
   * Anonymous Inner class | [link](https://github.com/HunorVadaszPerhat/java-studies/tree/main/inner_class/anonymous_inner_class)
   * Static Inner class | [link](https://github.com/HunorVadaszPerhat/java-studies/tree/main/inner_class/static_inner_class)
+* Static:
+  * Static members | [link](https://github.com/HunorVadaszPerhat/java-studies/tree/main/static/static_members)
+  * Static blocks | [link](https://github.com/HunorVadaszPerhat/java-studies/tree/main/static/static_block)
 
