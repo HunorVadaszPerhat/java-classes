@@ -13,4 +13,6 @@
 * Static:
   * Static members | [link](https://github.com/HunorVadaszPerhat/java-studies/tree/main/static/static_members)
   * Static blocks | [link](https://github.com/HunorVadaszPerhat/java-studies/tree/main/static/static_block)
+* Final:
+  * Final variables | [link](https://github.com/HunorVadaszPerhat/java-studies/tree/main/final/final_variables)
 
