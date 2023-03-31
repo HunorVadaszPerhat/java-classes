@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/access_modifiers/access_modifiers.iml" filepath="$PROJECT_DIR$/access_modifiers/access_modifiers.iml" />
       <module fileurl="file://$PROJECT_DIR$/inner_class/anonymous_inner_class/anonymous_inner_class.iml" filepath="$PROJECT_DIR$/inner_class/anonymous_inner_class/anonymous_inner_class.iml" />
       <module fileurl="file://$PROJECT_DIR$/final/final.iml" filepath="$PROJECT_DIR$/final/final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/final/final_class/final_class.iml" filepath="$PROJECT_DIR$/final/final_class/final_class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/final/final_methods/final_methods.iml" filepath="$PROJECT_DIR$/final/final_methods/final_methods.iml" />
       <module fileurl="file://$PROJECT_DIR$/inner_class/inner_class.iml" filepath="$PROJECT_DIR$/inner_class/inner_class.iml" />
       <module fileurl="file://$PROJECT_DIR$/interface/interface.iml" filepath="$PROJECT_DIR$/interface/interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-studies.iml" filepath="$PROJECT_DIR$/.idea/java-studies.iml" />
