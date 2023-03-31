@@ -15,4 +15,6 @@
   * Static blocks | [link](https://github.com/HunorVadaszPerhat/java-studies/tree/main/static/static_block)
 * Final:
   * Final variables | [link](https://github.com/HunorVadaszPerhat/java-studies/tree/main/final/final_variables)
+  * Final classes | [link](https://github.com/HunorVadaszPerhat/java-studies/tree/main/final/final_class)
+  * Final mehods | [link](https://github.com/HunorVadaszPerhat/java-studies/tree/main/final/final_methods)
 
