@@ -10,6 +10,8 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/java-studies.iml" filepath="$PROJECT_DIR$/.idea/java-studies.iml" />
       <module fileurl="file://$PROJECT_DIR$/inner_class/local_inner_class/local_inner_class.iml" filepath="$PROJECT_DIR$/inner_class/local_inner_class/local_inner_class.iml" />
       <module fileurl="file://$PROJECT_DIR$/inner_class/nested_inner_class/nested_inner_class.iml" filepath="$PROJECT_DIR$/inner_class/nested_inner_class/nested_inner_class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/static/static.iml" filepath="$PROJECT_DIR$/static/static.iml" />
+      <module fileurl="file://$PROJECT_DIR$/static/static_block/static_block.iml" filepath="$PROJECT_DIR$/static/static_block/static_block.iml" />
       <module fileurl="file://$PROJECT_DIR$/inner_class/static_inner_class/static_inner_class.iml" filepath="$PROJECT_DIR$/inner_class/static_inner_class/static_inner_class.iml" />
       <module fileurl="file://$PROJECT_DIR$/statements/switch/switch.iml" filepath="$PROJECT_DIR$/statements/switch/switch.iml" />
     </modules>
